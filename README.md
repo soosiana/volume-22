@@ -21,7 +21,7 @@ Sümegi Pál, Gulyás Sándor, 2001. Beszámoló a XXVI. Magyar Malakológus Tal
 Czirák Zoltán, Domokos Tamás, 2001. Magyarország védett puhatestűinek listája a második tárcaközi egyeztetés előtt. _Soosiana_, **22**: 9--10. [PDF](https://soosiana.github.io/volume-22/05_Soosiana_2001_22_25_Czirak-Domokos_9-10.pdf)
 
 
-Domokos Tamás(Mollusca, Gastropoda), 2001. Adatok a Chilostoma banatica (E. A. Rossmässler, 1838) Sitkai-erdőből (Békés megye, Gyulavári) gyűjtött egyedeinek héjmorfológiájához és annak klímafüggéséhez (Mollusca, Gastropoda). _Soosiana_, **22**: 11--26. [PDF](https://soosiana.github.io/volume-22/06_Soosiana_2001_22_25_Domokos_11-26.pdf)
+Domokos Tamás, 2001. Adatok a Chilostoma banatica (E. A. Rossmässler, 1838) Sitkai-erdőből (Békés megye, Gyulavári) gyűjtött egyedeinek héjmorfológiájához és annak klímafüggéséhez (Mollusca, Gastropoda). _Soosiana_, **22**: 11--26. [PDF](https://soosiana.github.io/volume-22/06_Soosiana_2001_22_25_Domokos_11-26.pdf)
 
 
 Mienis, Henk K., 2001. Adatok az Acrosterigma attenuatum (Bivalvia: Cardiidae) vörös-tengeri előfordulásához. _Soosiana_, **22**: 27--29. [PDF](https://soosiana.github.io/volume-22/07_Soosiana_2001_22_25_Mienis_27-29.pdf)
